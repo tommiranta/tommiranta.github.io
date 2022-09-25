@@ -64,7 +64,7 @@ the courses from Kirill and Hadelin (although I took this course first).
 For the third consecutive year I've participated in the Goodreads reading
 challenge. As the year is coming to an end I'm barely exceeding my target for
 this year, which is 40 books. Here are the books that I read this year, which I
-rated 5/5 stars.
+rated 5/5 stars. :star::star::star::star::star:
 
 **[Born a Crime](https://www.goodreads.com/book/show/29780253-born-a-crime)**
 by Trevor Noah. This is an incredible story of a mixed colored boy's childhood
