@@ -82,7 +82,7 @@ distribution the median value is the average of the two middlemost values.
 
 **Mode** is the most frequent value (=8 in the above example).
 
-![Mean, Median, Mode](/assets/images/2018-09-30-statistics/mean_mediaN_mode.png)
+![Mean, Median, Mode](/assets/images/2018-09-30-statistics/mean_median_mode.png)
 
 Image source: [Stackexchange](https://stats.stackexchange.com/questions/326304/in-a-given-set-of-numbers-can-there-be-more-than-half-above-mean-median-or-mode)
 
@@ -94,7 +94,8 @@ Image source: [Stackexchange](https://stats.stackexchange.com/questions/326304/i
 
 Image source: [Wikipedia](https://en.wikipedia.org/wiki/Sample_(statistics))
 
-**Population parameters**
+#### Population parameters
+
 $$
 N = \text{size}
 \\
@@ -102,7 +103,9 @@ N = \text{size}
 \\
 \sigma = \text{standard deviation}
 $$
-**Sample statistics**
+
+#### Sample statistics
+
 $$
 n = \text{size}
 \\
@@ -120,6 +123,7 @@ Image source: [Wikipedia](https://en.wikipedia.org/wiki/Central_limit_theorem)
 #### Sampling distribution
 
 The standard deviation of a sampling distribution is
+
 $$
 \sigma_\bar x = \frac {\sigma} {\sqrt{n}}
 $$
@@ -137,23 +141,29 @@ $$
 #### One sample
 
 Given a value x one can calculate the Z value
+
 $$
 z_i = \frac {x_i-\mu} {\sigma}
 $$
 
 where
+
 $$
 \mu\text{ is the mean of the population}
 \\
 \sigma\text{ is the standard deviation of the population}
 $$
-**Sample distribution**
+
+#### Sample distribution
 
 Given a mean value x
+
 $$
 z = \frac {\bar x-\mu} {\sigma_\bar x}
 $$
+
 where
+
 $$
 \mu\text{ is the mean of the population}
 \\
@@ -181,6 +191,7 @@ a max cargo weight of 2,630 lb.
 
 Based on this information what is the probability that all of the cargo can be
 safely loaded onto the plane and transported?
+
 $$
 \mu_\bar x = \mu = 72
 \\
@@ -224,6 +235,7 @@ hypothesis.
 In 2015 millennials were watching 26.5 hours of TV a week with a std. dev. of
 10 hours. Today you surveyed 50 millennials that they watch 24 hours of TV per
 week. Has the parameter decreased?
+
 $$
 H_0: \text{It has not decreased, i.e. } \mu \ge 26.5
 \\
@@ -262,10 +274,12 @@ calculated z-score against the z-score for P critical.
 
 ![Rejection regions](/assets/images/2018-09-30-statistics/rejection_region.png)
 
-**Example**
+#### Rejection regions example
+
 $$
 P_crit = 0.05 = z_crit = -1.65
 $$
+
 In above example the value -1.77 is less than -1.65, which means that our value
 is within the rejection region. **Note** in case z-score is positive the
 z-score must be higher than z critical in order for the value to be in the
@@ -292,6 +306,7 @@ T test can be used in situations where the sample size smaller than 30. In case
 the sample size is bigger than that it is better to rely on the Z-test calculation.
 
 The t value is calculated with the following formula.
+
 $$
 t = \frac {\bar x - \mu} {(\frac {s} {\sqrt{v}})}
 $$
@@ -305,6 +320,7 @@ s = \text{standard deviation of the sample}
 \\
 v = \text{number of degrees of freedom} = number\ of\ samples -1
 $$
+
 Look for the t critical value in the t table according to confidence level,
 number of degrees of freedom as well as whether the the test is one tailed or
 two tailed. Compare t critical with the calculated t value as with the
@@ -321,19 +337,20 @@ if on average Americans are meeting this recommendation. You surveyed 10 random
 people about how many steps each of them takes per day on average and got the
 following responses:
 
-7,900
-8,200
-11,350
-10,150
-8,200
-9,600
-6,950
-6,200
-8,950
-8,450
+- 7,900
+- 8,200
+- 11,350
+- 10,150
+- 8,200
+- 9,600
+- 6,950
+- 6,200
+- 8,950
+- 8,450
 
 It is evident that within your sample on average respondents are taking less
 than 10,000 steps. But can you infer the same for the whole population of America?
+
 $$
 H_0: \text{# of steps is at least met, i.e. } \mu \ge 10,000
 \\
@@ -373,12 +390,12 @@ $$
 One-tailed test is used to test statistical significance in one direction and
 two-tailed test is used to test statistical significance in two directions.  A
 two-tailed test will test both if the mean is significantly greater than *x*
-and if the mean significantly less than
-*x*.
+and if the mean significantly less than *x*.
 
 ![Comparison between 1-tailed and 2-tailed test](/assets/images/2018-09-30-statistics/one_and_two_tailed_regions.png)
 
 Notice the difference in hypothesis for a 2-tailed test.
+
 $$
 H_0: \text{x has not changed, i.e. } \mu = value
 \\
