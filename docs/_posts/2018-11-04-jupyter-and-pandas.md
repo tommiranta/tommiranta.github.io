@@ -2,7 +2,7 @@
 layout: post
 title:  "Jupyter + Pandas = Excel on steroids"
 date:   2018-12-02
-categories: learning
+categories: python
 ---
 ![Jupyter](/assets/images/2018-11-04-jupyter-and-pandas/jupyter1.png)
 
