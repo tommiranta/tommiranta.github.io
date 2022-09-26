@@ -2,7 +2,7 @@
 layout: post
 title:  "Statistics for Business Analytics Summary"
 date:   2018-09-30
-categories: learning mooc
+tags: learning mooc
 ---
 This is a summary of the equations and examples from the Udemy course
 Statistics for Business Analytics A-Z™ held by Kirill Eremenko.

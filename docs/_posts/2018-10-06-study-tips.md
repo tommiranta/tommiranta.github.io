@@ -2,7 +2,7 @@
 layout: post
 title:  "Master learning with these tips"
 date:   2018-10-06
-categories: learning
+tags: learning
 ---
 The world is constantly changing and getting more complex. It is crucial to
 renew your skill set in order to stay competitive on the job market. This

@@ -2,7 +2,7 @@
 layout: post
 title:  "My 2018: A year-in-review"
 date:   2018-12-18
-categories: learning
+tags: learning
 ---
 Traditionally we look back at the past year around these times before jumping
 into new challenges after the new year. In this article I want to highlight the

@@ -2,7 +2,7 @@
 layout: post
 title:  "Using Python in Power BI"
 date:   2018-12-02
-categories: python bi
+tags: python bi
 ---
 Microsoft announced Python integration in Power BI in their [August feature
 summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/#python).
