@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "A MUST READ to become a better salesperson!"
-date:   2017-03-25
-tags:   learning
+title: "A MUST READ to become a better salesperson!"
+date: 2017-03-25
+tags: learning
 ---
-Okay,  maybe clickbait is not the way to go in order to reach customers and
+
 sell. Continue to read, I promise it will get better. Early in my career when
 working as a SW developer in a consultancy my manger told me that everyone at
 the company is a salesperson. This is something that we are reminded of every
@@ -37,7 +37,7 @@ work. No one buys what you sell; they buy what you believe in. Enthusiasm
 sticks the same applies to the opposite. You need to believe in what you sell,
 so the first step is to convince yourself of what you are selling. You need to
 be best, cheapest or least risky solution, at least in your and your customer’s
-eyes.  Differentiation and competitive edge towards competitors if often a
+eyes. Differentiation and competitive edge towards competitors if often a
 matter of mental image. Focus on the strengths of your product and find
 customer that find this strength important. We need experts to sell technical
 and complex solutions.
@@ -47,9 +47,9 @@ Handbook](https://www.masteringtechnicalsales.com/tabook):
 
 - Ask from a more experienced sales person to mentor you.
 - Ask for feedback when you are part of sales e.g. what went well, what to
-avoid, and what to try next time.
+  avoid, and what to try next time.
 - You do not have to agree with all the feedback you receive but do not start
-arguing about it.
+  arguing about it.
 
 ## Open the discussion
 
@@ -78,7 +78,7 @@ other people. Here are a couple of tips:
 - Start following customers, competitors, opinion leaders and stakeholders.
 - Map where activities and content in your domain is shared (e.g. hashtags, groups).
 - Share interesting information – not only your organizations content. Pay
-interest to the whole industry. Add value by commenting.
+  interest to the whole industry. Add value by commenting.
 - Follow and take part in discussions. Comment, ask and answer.
 - Initiate the sales process if needed
 - Also take care of existing partnerships
@@ -91,7 +91,7 @@ are a couple of tips:
 
 - Call to warm inbound marketing leads and ask how you can help.
 - Offer value. E.g., tell that you have made a project in the same business
-that you could present.
+  that you could present.
 - Use a referrer. “N.N. told that we should talk because…”
 - Ask for feedback about a project that you have done for the customer earlier.
 
@@ -101,7 +101,7 @@ that you could present.
 
 Studies made by Albert Mehrabian show that the effect of verbal communication
 is only 7%, sound 38%, and body language 55%. Often it is said that first you
-need to sell yourself. In rhetoric, it is called Ethos.  The suitable ethos is
+need to sell yourself. In rhetoric, it is called Ethos. The suitable ethos is
 situational and for example different, when you speak to a software developer
 compared to speaking to company management. A good rule for dress code is to
 wear same or a bit better clothes than the audience. Trust is built by
@@ -144,15 +144,15 @@ the two main ingredients of a good story. Without this a story does not work.
 Gustav Freytag’s pyramid builds up a story in the following way:
 
 - The **exposition** phase provides information about the backstory and events
-before occurring before the main plot.
+  before occurring before the main plot.
 - During **rising action** a series of related incidents, build up to the point of
-utmost interest.
+  utmost interest.
 - The **climax** is the turning point at which there is a turnaround from good to
-evil or evil to good.
+  evil or evil to good.
 - During **falling action**, the conflict between the protagonist and antagonist
-unravels, and there is a semblance of victory, one way or the other.
+  unravels, and there is a semblance of victory, one way or the other.
 - **Denouement** refers to the resolution, revelation or conclusion. It may capture
-issues such as release of tension, restoration of peace and new lessons learned.
+  issues such as release of tension, restoration of peace and new lessons learned.
 
 Johan Bates a world famous trainer of presentation skills says that one key
 aspect of becoming a better storyteller is to tell the story from the
@@ -190,7 +190,7 @@ The FAB model is a good tool in constructing a presentation.
 - Advantage presents the solutions that the features enables.
 - **Benefit** presents what needs the solution solves.
 - **Learn** to use your body language (tone, gestures, and movements) in your
-presentations. Stand out by being enthusiastic about your product!
+  presentations. Stand out by being enthusiastic about your product!
 
 ## Negotiation
 
@@ -230,42 +230,42 @@ indirect means to reach the desired result. Robert Cialdini, author of
 
 1. **Reciprocity** – Be helpful and do favors.
 1. **Commitment and Consistency** – Sell the big picture in smaller parts and
-let the customer convince itself of buying the next part to allow continuity.
+   let the customer convince itself of buying the next part to allow continuity.
 1. **Social Proof** – The first followers are more important to the leader
-than the skill to inspire the followers. Watch this video [Leadership From A
-Dancing Guy](https://www.youtube.com/watch?v=hO8MwBZl-Vc).
+   than the skill to inspire the followers. Watch this video [Leadership From A
+   Dancing Guy](https://www.youtube.com/watch?v=hO8MwBZl-Vc).
 1. **Liking** – Find the biggest common denominator and a common enemy
-to gain the trust.
+   to gain the trust.
 1. **Authority** – Signal your position subtly with your clothing and plead to
-authorities in argumentation. Remember you get authority also through the
-company you represent.
+   authorities in argumentation. Remember you get authority also through the
+   company you represent.
 1. **Scarcity** – When you sell something, think if your offer has a deadline. Can
-the customer return to the same offer later without losing anything?
+   the customer return to the same offer later without losing anything?
 
 Richard Sell, author of “Bargaining for Advantage”, describes different
 bargaining styles in the following way.
 
-|Negotiation style|Description|
-|-|-|
-|Omission|Aiming to avoid situations that might cause confrontation.|
-|Compromise|Aiming to quickly find a mutually beneficial solution and retain the good relation.|
-|Adaptation|Aiming to find a quick solution to the customer’s problem.|
-|Competition|Aiming to win without concerns about the relationship. Hold on to own interests.|
-|Creative solution|Aiming to understand the problem and finding the best solution for both parties.|
+| Negotiation style | Description                                                                         |
+| ----------------- | ----------------------------------------------------------------------------------- |
+| Omission          | Aiming to avoid situations that might cause confrontation.                          |
+| Compromise        | Aiming to quickly find a mutually beneficial solution and retain the good relation. |
+| Adaptation        | Aiming to find a quick solution to the customer’s problem.                          |
+| Competition       | Aiming to win without concerns about the relationship. Hold on to own interests.    |
+| Creative solution | Aiming to understand the problem and finding the best solution for both parties.    |
 
 One can split the negotiation process into four parts:
 
 - **Preparation** – Good preparation is important. Plan at least the following
-aspects: negotiation style, targets and expectations, norms and standards,
-relationship, counterpart’s needs, power position.
+  aspects: negotiation style, targets and expectations, norms and standards,
+  relationship, counterpart’s needs, power position.
 - **Exchange of information** – The plan is applied in practice, you start to build
-up the relationship, test assumptions and communicate own targets.
+  up the relationship, test assumptions and communicate own targets.
 - **Opening move** – At this point you know the counterpart’s targets, problems and
-assumptions. You need to answer the following questions: Is it worth making the
-initial offer? Should the offer be optimistic or reasonable? How should I meet
-the customer’s counteroffers?
+  assumptions. You need to answer the following questions: Is it worth making the
+  initial offer? Should the offer be optimistic or reasonable? How should I meet
+  the customer’s counteroffers?
 - **Ending and commitment** – The negotiation process ends where the target is to
-reach a final decision.
+  reach a final decision.
 
 The first deal is just the beginning of the co-operation. It works as a
 reference when you start to build up the customer relation. The next steps are
@@ -276,4 +276,3 @@ Latest when there are a couple of deliveries done you should think of forming a
 steering group with the customer. This is a good way to reach top management in
 the organisation and be a part of their strategic projects. In the end, you
 will be a strategic partner for the customer.
-

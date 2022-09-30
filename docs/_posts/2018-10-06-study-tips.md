@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Master learning with these tips"
-date:   2018-10-06
+title: "Master learning with these tips"
+date: 2018-10-06
 tags: learning
 ---
+
 The world is constantly changing and getting more complex. It is crucial to
 renew your skill set in order to stay competitive on the job market. This
 allows you to add value not only to yourself, but also to your employer. It can
@@ -124,4 +125,3 @@ grasp what you are learning. I hope the these tips will help you on your
 learning journey and I will go back to continue mine.
 
 What are your best learning tips?
-

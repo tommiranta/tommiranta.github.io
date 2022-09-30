@@ -1,12 +1,13 @@
 ---
 layout: post
-title:  "Facilitating retrospectives"
-date:   2017-09-18
-tags:   learning agile
+title: "Facilitating retrospectives"
+date: 2017-09-18
+tags: learning agile
 ---
+
 In the [last blog post]({% post_url 2017-08-14-introduction-to-retrospectives
 %}), I introduced you to retrospectives and listed the different types of
-retrospectives.  This time we will focus on the contents of a retrospective.
+retrospectives. This time we will focus on the contents of a retrospective.
 The theories I present will be best suited for iteration/milestone, release and
 project retrospectives. Sprint retrospectives as well as Kanban kata have their
 own routines. A retrospective consists of five phases, which are:
@@ -130,7 +131,7 @@ Most are familiar with brainstorming so here’s a couple of methods that can be
 
 - Free-for-all. People call out ideas at random.
 - Round-robin. Pass a “talking-token” around the circle. Only the person with
-the token can to talk.
+  the token can to talk.
 - Silent/individual brainstorming. Afterwards continue with method 1 or 2.
 
 ### Five Whys
@@ -188,7 +189,7 @@ it is time to prioritize the actions and pick the top items to address. Make
 sure that you only one or two actions for the next iteration. Something that
 the team can commit to and that will have a positive effect. Preferably, you
 create backlog items of the action points so that they end up on the same work
-plan as the rest of the work in your iteration.  Finally ensure that individual
+plan as the rest of the work in your iteration. Finally ensure that individual
 people commit and sign up for the task(s). Assuming that “the team” will do it
 is a usually means that no one does it.
 
@@ -272,4 +273,3 @@ Further reading:
 - Agile Retrospectives: Making Good Teams Great
 - Project Retrospectives: A Handbook for Team Reviews
 - [Retrospective wiki](http://retrospectivewiki.org/index.php?title=Agile_Retrospective_Resource_Wiki)
-

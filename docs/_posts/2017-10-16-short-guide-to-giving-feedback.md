@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "A short guide to giving feedback"
-date:   2017-10-16
-tags:   learning
+title: "A short guide to giving feedback"
+date: 2017-10-16
+tags: learning
 ---
+
 Feedback helps motivate a person to perform well and clarifies any deviations
 between the preferred and the actual behaviour of the individual by giving the
 person information on their performance. It is not only essential for
@@ -84,15 +85,15 @@ feedback. Here is one recipe:
 - **Accurate**: It should be factual and clear.
 - **Objective**: Feedback should be unbiased and unprejudiced.
 - **Timely**: Give feedback as soon as possible after completion of a task. At
-times, it might not be possible to give feedback immediately and it is better
-to select a more appropriate time and place.
+  times, it might not be possible to give feedback immediately and it is better
+  to select a more appropriate time and place.
 - **Usable**: Relate the feedback to goals and strategies so the individual can
-improve performance.
+  improve performance.
 - **Desired** by the receiver: Feedback can still be effective even for those who
-don’t actively seek it, however those who are seeking feedback will often be
-more motivated to improve performance.
+  don’t actively seek it, however those who are seeking feedback will often be
+  more motivated to improve performance.
 - **Checked** for understanding: Clarify understanding with the individual to
-ensure they are getting the most out of their feedback.
+  ensure they are getting the most out of their feedback.
 
 ### Giving positive feedback
 
@@ -106,9 +107,9 @@ It is usually a bit harder to give critical feedback. Here are some specific
 guidelines to help you give critical feedback.
 
 - Always give the feedback to the person that the feedback is addressed to. Do
-not talk behind the persons back.
+  not talk behind the persons back.
 - Always give the feedback in person, do not give critical feedback to a person
-in a group.
+  in a group.
 - Do not compare one’s behaviour to another.
 - Do not repeat yourself.
 - Only give feedback about things that the other person can affect.
@@ -122,7 +123,7 @@ tips to consider when someone gives you feedback:
 
 - Show that you listen. Stop any other activities and focus on listening.
 - Look at the person who is speaking in order to show that you care about
-him/her and the feedback that you are given.
+  him/her and the feedback that you are given.
 - Do not look for faults in the person who is giving you feedback.
 - Do not get depressed.
 - Do not distort the feedback.
@@ -135,25 +136,24 @@ him/her and the feedback that you are given.
 Ed Batista listed these four elements when building a feedback culture:
 
 1. Safety and Trust – People must feel a sense of safety and trust. This can be
-achieved by getting to know each other, talking about emotions, and making it
-okay to say no if the time is not right to receive feedback (agree on a new
-time for the discussion).
+   achieved by getting to know each other, talking about emotions, and making it
+   okay to say no if the time is not right to receive feedback (agree on a new
+   time for the discussion).
 1. Balance – As mentioned in the beginning of the blog post the ration between
-positive feedback and constructive criticism should be 5:1. You can achieve
-this by offering good feedback… and stopping there, starting small (you do not
-always have to have long discussions), and by praising effort not ability (e.g.
-give praise even if the task failed).
+   positive feedback and constructive criticism should be 5:1. You can achieve
+   this by offering good feedback… and stopping there, starting small (you do not
+   always have to have long discussions), and by praising effort not ability (e.g.
+   give praise even if the task failed).
 1. Normalcy – You do not always have to wait for special occasions, such as
-review or retrospective meetings. Just take a few minutes and make it happen.
-When the safety and trust exists, it is also possible to give feedback in
-larger groups.
+   review or retrospective meetings. Just take a few minutes and make it happen.
+   When the safety and trust exists, it is also possible to give feedback in
+   larger groups.
 1. Personal accountability – Be transparent, everyone should know that giving
-and receiving feedback is an ongoing goal. Ask! Do not always sit and wait for
-someone to give feedback. If we want to root a feedback culture, you need to
-ask for it as well.
+   and receiving feedback is an ongoing goal. Ask! Do not always sit and wait for
+   someone to give feedback. If we want to root a feedback culture, you need to
+   ask for it as well.
 
 I hope that these tips will help you to give and receive feedback as well as
 set a spark towards a feedback culture at your company. You can set yourself a
 target to give feedback to your co-workers in your project once per week. Once
 you build a habit it gets easier.
-

@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Jupyter + Pandas = Excel on steroids"
-date:   2018-12-02
+title: "Jupyter + Pandas = Excel on steroids"
+date: 2018-12-02
 tags: python
 ---
+
 ![Jupyter](/assets/images/2018-11-04-jupyter-and-pandas/jupyter1.png)
 
 Exploratory data analysis and cleaning data is one of the most important
@@ -14,7 +15,7 @@ and Jupyter. Little did I know what an impact it would have on my daily work,
 even if not working directly with data science tasks. In this article I will
 introduce you to Pandas and Jupyter and how to get started using them. I will
 tell about its benefits and how it has partially replaced the work with Excel
-and improved my efficiency. It's not the best fit for all of your  tasks so I
+and improved my efficiency. It's not the best fit for all of your tasks so I
 will also bring up scenarios where you're probably better off using other tools.
 
 ## About Jupyter and Pandas
@@ -41,19 +42,19 @@ subscriptions, clean-up of various data before passing it onward as an Excel
 workbook, analysis of survey results, and analysis of bug tracker data. Here
 are some of the benefits I've come across:
 
-- *Python ecosystem* - Since Python is a programming language you have almost
-endless possibilities with what you can do with data. Re-use of code, utilize
-3rd party libraries, automate work recurring tasks after analysis in Jupyter etc.
-- *Importing data from more unconventional formats* - Although Excel provides
-basic possibilities for importing tables from web pages it does not come near
-to the possibilities provided by [web scraping](https://en.wikipedia.org/wiki/Web_scraping)
-libraries or importing a table directly from a [PDF document](https://github.com/socialcopsdev/camelot).
-- *Efficient filtering, combining and aggregation of data* - Pandas allows you
-to do database-like actions such as joining, grouping and querying. In
-addition, it has pivot functionality similarly to Excel.
-- *Quick prototyping and visualization* - Unless I work with simple data I
-often reach the desired results quicker  using Pandas than with Excel. This
-although I consider myself a quite seasoned user of Excel.
+- _Python ecosystem_ - Since Python is a programming language you have almost
+  endless possibilities with what you can do with data. Re-use of code, utilize
+  3rd party libraries, automate work recurring tasks after analysis in Jupyter etc.
+- _Importing data from more unconventional formats_ - Although Excel provides
+  basic possibilities for importing tables from web pages it does not come near
+  to the possibilities provided by [web scraping](https://en.wikipedia.org/wiki/Web_scraping)
+  libraries or importing a table directly from a [PDF document](https://github.com/socialcopsdev/camelot).
+- _Efficient filtering, combining and aggregation of data_ - Pandas allows you
+  to do database-like actions such as joining, grouping and querying. In
+  addition, it has pivot functionality similarly to Excel.
+- _Quick prototyping and visualization_ - Unless I work with simple data I
+  often reach the desired results quicker using Pandas than with Excel. This
+  although I consider myself a quite seasoned user of Excel.
 
 While there are lots of benefits, there are also occasions when this might not
 be the best option for you. The main reason being a steep learning curve unless
@@ -87,7 +88,7 @@ Installation instructions:
 [Jupyter](http://jupyter.org/install.html).
 
 You can start Jupyter once you have installed the needed packages by
-double-clicking the *Jupyter Notebook* icon installed by Anaconda or by
+double-clicking the _Jupyter Notebook_ icon installed by Anaconda or by
 executing the following command:
 
 ```shell
@@ -97,22 +98,22 @@ jupyter notebook
 Starting Jupyter should automatically open up the application in your default
 web browser. In case this doesn't happen try navigating to
 `http://localhost:8888`, which is the default address when running Jupyter on
-your own computer.   The next step is to get acquainted with Jupyter and
+your own computer. The next step is to get acquainted with Jupyter and
 Pandas. The internet is full of good resources, here are some to get you
 started:
 
 - [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-by Datacamp
+  by Datacamp
 - [Jupyter Notebook for Beginners: A Tutorial](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
-by Dataquest
+  by Dataquest
 - [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-, by Pandas
+  , by Pandas
 - [Cookbook](https://pandas.pydata.org/pandas-docs/stable/cookbook.html#cookbook)
-, by Pandas
+  , by Pandas
 - [Data Analysis with Python and Pandas](https://pythonprogramming.net/data-analysis-python-pandas-tutorial-introduction/)
-video tutorial by Pythonprogramming
+  video tutorial by Pythonprogramming
 - [Data Analysis with Pandas and Python](https://www.udemy.com/data-analysis-with-pandas)
-on Udemy by Boris Pashkaver
+  on Udemy by Boris Pashkaver
 
 Personally I have experience from the course on Udemy, which provided an
 comprehensive overview of what you can do with Pandas. Especially in the

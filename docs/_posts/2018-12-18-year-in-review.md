@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "My 2018: A year-in-review"
-date:   2018-12-18
+title: "My 2018: A year-in-review"
+date: 2018-12-18
 tags: learning
 ---
+
 Traditionally we look back at the past year around these times before jumping
 into new challenges after the new year. In this article I want to highlight the
 things that have added most value for me this past year and hopefully it
@@ -68,7 +69,7 @@ rated 5/5 stars. :star::star::star::star::star:
 
 **[Born a Crime](https://www.goodreads.com/book/show/29780253-born-a-crime)**
 by Trevor Noah. This is an incredible story of a mixed colored boy's childhood
-in the middle of  apartheid South Africa. A story about a boy who is trying to
+in the middle of apartheid South Africa. A story about a boy who is trying to
 find his place and community in a family filled with violence, abuse,
 discipline but in the end also unconditional love. A story filled with action,
 humor, joy, grief and tragedy. A story about Trevor Noah growing up.
@@ -98,7 +99,7 @@ entire life.
 **[Deep Learning with Python](https://www.manning.com/books/deep-learning-with-python)**
 by Francois Chollet introduces you to deep learning using the Keras library.
 The book is well written, the intuition is easy to understand and the code
-examples are elegant. In case you're just learning Keras  or want to learn a
+examples are elegant. In case you're just learning Keras or want to learn a
 few more advanced tricks, I recommend grabbing this book and giving it a read.
 
 ## Podcasts
@@ -118,8 +119,8 @@ it is a great source of interesting people in the field of data science to
 follow and/or connect with.
 
 **[Boss Level Podcast](http://www.bosslevelpodcast.com/)** by Sami Honkonen.
-I'll let his podcast subtitle speak for itself: *"Interviews with interesting
-people doing awesome things"*. Topics often relate to leadership,
+I'll let his podcast subtitle speak for itself: _"Interviews with interesting
+people doing awesome things"_. Topics often relate to leadership,
 organizations, agile and so on giving me good insights and ideas for work.
 
 **[Let's Know Things](https://letsknowthings.com/)** by Colin Wright is
@@ -148,4 +149,3 @@ Now it is time to slow down for the holidays and spend some with the family and
 friends. I look forward to a new year and continued networking, sharing and
 writing of interesting stuff here on LinkedIn. There is an abundance of
 interesting topics to learn. See you on the other side!
-

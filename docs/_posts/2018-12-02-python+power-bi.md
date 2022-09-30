@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Using Python in Power BI"
-date:   2018-12-02
+title: "Using Python in Power BI"
+date: 2018-12-02
 tags: python bi
 ---
+
 Microsoft announced Python integration in Power BI in their [August feature
 summary](https://powerbi.microsoft.com/en-us/blog/power-bi-desktop-august-2018-feature-summary/#python).
 Just as with the R support you can now use Python for importing data, data
@@ -85,7 +86,7 @@ option is to place the conda environments in a non-system folder.
 The Python support in Power BI is still a preview feature (as of December
 2018), which means that we will need to enable it separately before it can be
 used. Start Power BI and go to the `Options` and `Preview features` section.
-From there we can  enable `Python support`. Click OK and restart Power BI.
+From there we can enable `Python support`. Click OK and restart Power BI.
 
 ![1543656871835](/assets/images/2018-12-02-python+power-bi/1543656871835.png)
 
@@ -173,9 +174,9 @@ to take different routes. The target is to convert every column to numbers.
 
 #### Power BI with decimal point
 
-Although I have not tested this, you should be able to remove the `Changed
-Type` step, choose all columns and let Power BI `Detect Data Type` from the
-`Transform` tab in the ribbon in order to get the correct data types. Repeat
+Although I have not tested this, you should be able to remove the
+`Changed Type` step, choose all columns and let Power BI `Detect Data Type` from
+the `Transform` tab in the ribbon in order to get the correct data types. Repeat
 for both datasets.
 
 Another option is to modify the import script and remove/comment the rows where
@@ -191,8 +192,7 @@ the `Transform` tab in the ribbon. Replace dot with comma and click `OK`.
 
 ![1543660924794](/assets/images/2018-12-02-python+power-bi/1543660924794.png)
 
-After this let Power  BI detect the correct data type by clicking `Detect Data
-Type`. Repeat these steps for both datasets.
+After this let Power BI detect the correct data type by clicking `Detect Data Type`. Repeat these steps for both datasets.
 
 ![1543661015941](/assets/images/2018-12-02-python+power-bi/1543661015941.png)
 
@@ -205,7 +205,7 @@ to the `Home` tab and click `Close & Apply`.
 ### Create custom visualizations using Python
 
 We go back to the `Reports` view to start working on our visualizations. The
-plan is to visualize the clusters on a chart  using the principal components as
+plan is to visualize the clusters on a chart using the principal components as
 axes. A scatter plot is a good alternative for this visualization. Click on the
 `Scatter chart` to add it to the page. Drag the `df_housing` columns to the
 visualizations pane in the following way:
@@ -316,11 +316,11 @@ clusters. We create a new page and do the following changes:
 
 - Add a descriptive heading.
 - Add a `Scatter chart` with `X Axis` value is `DIS` column, `Y Axis` value is
-`MEDV` and `Legend` and `Details` fields are set up like the previous scatter plot.
+  `MEDV` and `Legend` and `Details` fields are set up like the previous scatter plot.
 - Right click the `DIS` column and choose `New group` and create bins of size 1.
 - Add a `Stacked column chart` showing the distribution of distance values by
-using the newly created binned column of `DIS`. Sort the chart in ascending
-order by the Axis instead of the count.
+  using the newly created binned column of `DIS`. Sort the chart in ascending
+  order by the Axis instead of the count.
 
 This is how my version of the report turned out.
 
@@ -342,4 +342,3 @@ importing a dataset that is ready for visualization. Also the performance of
 the Python visuals could be better. But keeping in mind that this is still a
 preview feature it looks very promising! What use cases do you see for using
 Python in Power BI? Join the discussion and share your thoughts.
-

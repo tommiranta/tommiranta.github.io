@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Introduction to retrospectives"
-date:   2017-08-14
-tags:   learning agile
+title: "Introduction to retrospectives"
+date: 2017-08-14
+tags: learning agile
 ---
+
 Continuous improvement is an important topic in expert organisations to stay
 competitive. It is also one of the principles behind the agile manifesto:
 
@@ -81,4 +82,3 @@ retrospectives part of project work. There should [always](https://hakanforss.wo
 be time to learn and improve in your project. In my second retrospective blog
 post, I will introduce you to how one can conduct a retrospective in the
 project, regardless of the retrospective type.
-

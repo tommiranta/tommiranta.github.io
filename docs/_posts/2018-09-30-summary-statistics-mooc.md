@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Statistics for Business Analytics Summary"
-date:   2018-09-30
-tags:   learning mooc
+title: "Statistics for Business Analytics Summary"
+date: 2018-09-30
+tags: learning mooc
 ---
+
 This is a summary of the equations and examples from the Udemy course
 Statistics for Business Analytics A-Z™ held by Kirill Eremenko.
 
@@ -38,7 +39,7 @@ In a discrete distribution the value belongs to a certain category or group. It
 is possible to calculate the probability for a certain value ending up in a
 specific category.
 
-A continuous distribution  is represented by a line consisting of all the
+A continuous distribution is represented by a line consisting of all the
 values in the sample/population. It is not possible to calculate the
 probability for a certain value. Instead one must calculate the probability of
 a value belonging into a certain area.
@@ -75,7 +76,7 @@ Given a distribution of the following values:
 
 **Mean** value is the average of the sum of all values (=6 in the above example).
 
-**Median** is the value in the middle of the index of  the sorted distribution
+**Median** is the value in the middle of the index of the sorted distribution
 (=7 in the above example. Value at index position 8, as the size of the
 distribution is 15). In case there is an even number of values in the
 distribution the median value is the average of the two middlemost values.
@@ -92,7 +93,7 @@ Image source: [Stackexchange](https://stats.stackexchange.com/questions/326304/i
 
 ![Simple Random Sample](/assets/images/2018-09-30-statistics/simple_random_sampling.png)
 
-Image source: [Wikipedia](https://en.wikipedia.org/wiki/Sample_(statistics))
+Image source: [Wikipedia](<https://en.wikipedia.org/wiki/Sample_(statistics)>)
 
 #### Population parameters
 
@@ -127,7 +128,9 @@ The standard deviation of a sampling distribution is
 $$
 \sigma_\bar x = \frac {\sigma} {\sqrt{n}}
 $$
+
 where
+
 $$
 \mu_\bar x = \mu = \text{mean value}
 \\
@@ -227,8 +230,8 @@ $$
 3. Calculate the z-score
 4. Check the P-value based on the z-score
 5. Given a certain confidence level (usually 95%), either reject the null
-hypothesis or conclude that there is not sufficient evidence to reject the null
-hypothesis.
+   hypothesis or conclude that there is not sufficient evidence to reject the null
+   hypothesis.
 
 #### Hypothesis testing example
 
@@ -310,7 +313,9 @@ The t value is calculated with the following formula.
 $$
 t = \frac {\bar x - \mu} {(\frac {s} {\sqrt{v}})}
 $$
+
 where
+
 $$
 \mu  = \text{mean value of the population}
 \\
@@ -328,7 +333,7 @@ rejection regions.
 
 #### t Table
 
-[Link to t Table](http://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf )
+[Link to t Table](http://www.sjsu.edu/faculty/gerstman/StatPrimer/t-table.pdf)
 
 #### T-test example
 
@@ -388,9 +393,9 @@ $$
 ### 1-Tailed and 2-Tailed Test
 
 One-tailed test is used to test statistical significance in one direction and
-two-tailed test is used to test statistical significance in two directions.  A
-two-tailed test will test both if the mean is significantly greater than *x*
-and if the mean significantly less than *x*.
+two-tailed test is used to test statistical significance in two directions. A
+two-tailed test will test both if the mean is significantly greater than _x_
+and if the mean significantly less than _x_.
 
 ![Comparison between 1-tailed and 2-tailed test](/assets/images/2018-09-30-statistics/one_and_two_tailed_regions.png)
 

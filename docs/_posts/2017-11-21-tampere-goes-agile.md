@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Tampere Goes Agile 2017"
-date:   2017-11-21
-tags:   agile conference
+title: "Tampere Goes Agile 2017"
+date: 2017-11-21
+tags: agile conference
 ---
+
 On 28th of October I jumped on the morning train from Vaasa to Tampere in order
 to attend my first ever [Tampere Goes Agile](https://tamperegoesagile.fi)
 event. This is a summary of the event and summarizes what I learned from it.
@@ -159,7 +160,7 @@ points:
 - LeSS or SAFe coordination and planning between teams.
 - Safe and trust is created with good history and openness about the model.
 - It does not matter if an individual project goes over – it will even out over
-the year.
+  the year.
 
 The benefits here are that customer has a perceived security with fixed price
 offers and subcontractors have possibility for increased profit, due to the
@@ -214,4 +215,3 @@ This was my first visit to Tampere Goes Agile and I hope that I can participate
 again next year and hopefully be more open to discussion with other
 participants during all breaks in order to hear more about working practices in
 other companies.
-
