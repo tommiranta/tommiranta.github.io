@@ -5,7 +5,7 @@ date: 2022-11-07
 tags: coding
 ---
 
-We all know the importance of a good bed — we spend one third of our time in
+foo. We all know the importance of a good bed — we spend one third of our time in
 one. As a worker in the software industry I spend an equal amount of time in
 front of a computer. That got me thinking about what I can do to improve work
 ergonomy and what tools to use to make my time coding as pleasant as possible.
